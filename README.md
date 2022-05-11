@@ -1,18 +1,31 @@
-### Olá! Eu sou o Rogério Paiva 👋
-
-Sou estudante front-end. No momento aprendendo desenvolvimento de sistemas com html, CSS, Javascript, React e React Native e testes
+### Hey! I´m Rogério Paiva 
 
 <!--
 **rogerioopaiva/rogerioopaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🚀 Of tester from Frontend Developer and advancing... 
+- 💻 I’m graduated in System Analysis and Development...
+- 🎯 This repository is constant evolution...
+- 📫 How to reach me: rogerioopaiva36@gmail.com
+- 🎮 I love to play game. Whether board or video game
+
+
+--------------------------------------------
+<p align="center" font-size:50px>
+  <strong>Skills</strong>
+</p>
+                                                             
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" width="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="70" width="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" width="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" width="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" width="70"/>
+          
+          
+          
+          
+          
+            
+          
+          
