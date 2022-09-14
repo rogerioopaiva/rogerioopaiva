@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 🎮 I love to play game. Whether board or video game
 
 
-![Rogerio Paiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerioopaiva&show_icons=true&theme=onedark)
-
           
           
           
