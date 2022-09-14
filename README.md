@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 
 
 ![Rogerio Paiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerioopaiva&show_icons=true&theme=onedark)
---------------------------------------------
-<p align="center" font-size:50px>
-  <strong>Skills</strong>
-</p>
-                                                             
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" width="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="70" width="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" width="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="70" width="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" width="70"/>
           
           
           
